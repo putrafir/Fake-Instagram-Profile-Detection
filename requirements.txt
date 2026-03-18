@@ -1,0 +1,5 @@
+instaloader==4.15
+joblib==1.5.3
+numpy==2.4.3
+streamlit==1.55.0
+tensorflow==2.19.0
